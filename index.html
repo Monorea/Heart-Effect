@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Heart Animation Effect</title>
+
+    <style>
+        canvas {
+        position: absolute;
+        left:0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,.2);
+        }
+    </style>
+  </head>
+  <body>  
+        <canvas id="heart"></canvas>
+
+        <!--JavaScript-->
+        <script src="script.js"></script>
+  </body>
+</html>
